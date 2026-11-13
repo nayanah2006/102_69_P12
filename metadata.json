@@ -1,0 +1,6 @@
+{
+  "name": "FoodGuard — Restaurant Complaint Tracker",
+  "description": "Public food safety and restaurant complaint intake, DFA/regex validation, automated classification, four-zone routing, and SLA tracking portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
